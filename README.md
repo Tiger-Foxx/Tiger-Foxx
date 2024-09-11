@@ -18,7 +18,7 @@ N'hésitez pas à me contacter si vous souhaitez collaborer ou discuter de proje
 ## Mes compétences
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,html,css,firebase,django,docker,linux,github,jupyter" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,html,css,firebase,django,docker,java,spring,linux,github,jupyter" />
   </a>
 </p>
 
