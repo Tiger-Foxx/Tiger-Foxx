@@ -101,11 +101,7 @@ class RenardExcentrique:
 <img src="https://github-profile-trophy.vercel.app/?username=Tiger-Foxx&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
 </div>
 
-## 🎮 Mon graphe de Contributions ... un serpent le mange !
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 ## 🦊 Projets Épiques en Cours
 
@@ -121,9 +117,11 @@ class RenardExcentrique:
 
 ## 🎬 Contributions
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tiger-Foxx/Tiger-Foxx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
+## 🎮 Mon graphe de Contributions ... un serpent le mange !
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <div align="center">
 
