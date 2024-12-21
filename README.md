@@ -67,52 +67,17 @@ class RenardExcentrique:
 </div>
 
 ## 🎯 Arsenal Technologique
-
-<details>
-<summary>Cliquez pour découvrir mon arsenal complet ! 🚀</summary>
-
-<div align="center">
-
-### 🛠 Développement Mobile & Desktop
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
-
-### 🐍 Développement Backend & Scripts
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-</p>
-
-### 🎨 Développement Frontend
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
-
-### 🛡️ Cybersécurité & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🔧 Outils & Environnements
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Apercu de l'arsenal Technologique👨🏻‍💻</h2></summary>
+  </ul>
 </div>
-</details>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,spring,django,flutter,kali,python,c,vite,threejs,angular,laravel&perline=14" />
+  </a>
+</p>
 
 ## 📊 Mes Statistiques de Renard Rusé
 
@@ -151,25 +116,8 @@ class RenardExcentrique:
 
 </div>
 
-## 🎵 Ambiance du Moment
 
-<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=VOTRE_USER_ID&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-## 📝 Blog & Pensées
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- 🦊 [Comment j'ai hacké éthiquement mon premier système](https://votre-blog.com)
-- 💡 [Les secrets d'une architecture Flutter scalable](https://votre-blog.com)
-- 🔐 [Sécurité et performance : mon approche](https://votre-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
-</div>
 
 ## 🎬 Contributions
 
