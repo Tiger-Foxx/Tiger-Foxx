@@ -14,7 +14,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/Tiger-Foxx/Tiger-Foxx/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
 ## 🦊 Qui suis-je ?
@@ -34,8 +34,8 @@ class RenardExcentrique:
         }
         self.stack_technique = {
             "mobile": ["Flutter", "Dart"],
-            "backend": ["Django", "Python", "Java", "Spring"],
-            "frontend": ["HTML5", "CSS3", "JavaScript"],
+            "backend": ["Django", "Flutter", "JEE", "Spring"],
+            "frontend": ["HTML5", "CSS3", "JavaScript","React","Angular","Flutter"],
             "sécurité": ["Kali Linux", "Penetration Testing"],
             "devops": ["Docker", "Firebase", "GitHub Actions"]
         }
@@ -51,7 +51,7 @@ class RenardExcentrique:
 
 </td>
 <td>
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 </td>
 </tr>
 </table>
@@ -133,19 +133,14 @@ class RenardExcentrique:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiger-Foxx&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 
 <!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Tiger-Foxx&theme=juicyfresh&no-frame=true&no-bg=true&row=1" alt="Trophy" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Tiger-Foxx&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
 </div>
 
-## 🎮 Prenons une pause avec un mini-jeu !
+## 🎮 Mon graphe de Contributions ... un serpent le mange !
 
-<div align="center">
-  <a href="https://github.com/Tiger-Foxx/github-readme-stats-game">
-    <img src="https://raw.githubusercontent.com/Tiger-Foxx/Tiger-Foxx/main/assets/game.svg" alt="GitHub Readme Stats Game" />
-  </a>
-  <br>
-  <i>Cliquez sur l'image pour jouer ! 🎮</i>
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ## 🦊 Projets Épiques en Cours
 
