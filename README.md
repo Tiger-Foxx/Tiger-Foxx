@@ -107,8 +107,8 @@ class RenardExcentrique:
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=Projet-1&theme=great-gatsby)](https://github.com/Tiger-Foxx/Projet-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=Projet-2&theme=great-gatsby)](https://github.com/Tiger-Foxx/Projet-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=skin-cancer-prediction-bcc&theme=great-gatsby)](https://github.com/Tiger-Foxx/skin-cancer-prediction-bcc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=SDN-and-Machine-learning&theme=great-gatsby)](https://github.com/Tiger-Foxx/SDN-and-Machine-learning)
 
 </div>
 
