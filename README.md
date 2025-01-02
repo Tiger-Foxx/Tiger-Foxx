@@ -8,7 +8,7 @@
   <lottie-player src="https://lottie.host/5e37c340-c312-4367-bbb6-21505058c935/7juMz3Qj67.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=F75800&center=true&vCenter=true&width=935&lines=Salut+👋+Je+suis+Donfack+Pascal+Arthur+!;Développeur+Excentrique+%26+Passionné+de+Hacking+!;Étudiant+à+l'École+Polytechnique+de+Yaoundé+🎓;Créateur+de+Solutions+Innovantes+et+Sécurisées+💡;À+la+Recherche+de+Défis+Techniques+Excitants+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=F75800&center=true&vCenter=true&width=935&lines=Salut+👋+Je+suis+Donfack+Pascal+Arthur+!;Développeur+Excentrique+%26+Passionné+de+Hacking+!;Créateur+de+Solutions+Innovantes+et+Sécurisées+💡;À+la+Recherche+de+Défis+Techniques+Excitants+🚀" alt="Typing SVG" /></a>
 
 </div>
 
@@ -29,7 +29,7 @@ class RenardExcentrique:
         self.identité = {
             "nom": "Donfack Pascal Arthur",
             "rôle": "Développeur Full Stack & Ethical Hacker",
-            "école": "École Polytechnique de Yaoundé",
+            "Parcours_academique": "École Polytechnique de Yaoundé",
             "passion": ["Code Créatif", "Sécurité", "Innovation"]
         }
         self.stack_technique = {
