@@ -8,7 +8,7 @@
   <lottie-player src="https://lottie.host/5e37c340-c312-4367-bbb6-21505058c935/7juMz3Qj67.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=F75800&center=true&vCenter=true&width=935&lines=Salut+👋+Je+suis+Donfack+Pascal+Arthur+!;Développeur+Excentrique+%26+Passionné+de+Hacking+!;Créateur+de+Solutions+Innovantes+et+Sécurisées+💡;À+la+Recherche+de+Défis+Techniques+Excitants+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=F75800&center=true&vCenter=true&width=935&lines=Salut+👋+Je+suis+Pascal+Arthur+Montgomery+!;Développeur+Excentrique+%26+Passionné+de+Hacking+!;Créateur+de+Solutions+Innovantes+et+Sécurisées+💡;À+la+Recherche+de+Défis+Techniques+Excitants+🚀" alt="Pascal Arthur Montgomery Donfack" /></a>
 
 </div>
 
@@ -34,9 +34,9 @@ class RenardExcentrique:
         }
         self.stack_technique = {
             "mobile": ["Flutter", "Dart"],
-            "backend": ["Django", "Flutter", "JEE", "Spring"],
+            "backend": ["Django", "Flutter", "JEE", "Spring","Node"],
             "frontend": ["HTML5", "CSS3", "JavaScript","React","Angular","Flutter"],
-            "sécurité": ["Kali Linux", "Penetration Testing"],
+            "sécurité": ["Kali Linux", "Penetration Testing","Code analysis"],
             "devops": ["Docker", "Firebase", "GitHub Actions"]
         }
         self.projets_actuels = [
@@ -69,17 +69,17 @@ class RenardExcentrique:
 ## 🎯 Arsenal Technologique
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Apercu de l'arsenal Technologique👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Apercu de l'arsenal Technologique</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,spring,django,flutter,kali,python,c,vite,threejs,angular,laravel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,spring,django,flutter,kali,python,c,vite,threejs,angular,csharp,dotnet,laravel&perline=14" />
   </a>
 </p>
 
-## 📊 Mes Statistiques de Renard Rusé
+## 📊 Mes Statistiques de Renard 
 
 <div align="center">
 
