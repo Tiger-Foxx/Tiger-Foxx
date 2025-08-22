@@ -43,10 +43,9 @@ const engineer = {
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c,cs,react,angular,html,css,tailwind,materialui,threejs,vite,nodejs,django,spring,express,dotnet,laravel,flutter,postgres,mongodb,mysql,redis,firebase,linux,kali,docker,nginx,git,github,postman,figma&perline=12" />
 </div>
 
-#### And more...
+### And more...
 
 
----
 
 ## GitHub Statistics
 
@@ -64,7 +63,6 @@ const engineer = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiger-Foxx&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=0d1117" alt="Top Languages"/>
 
----
 
 ## Featured Projects
 
@@ -91,7 +89,6 @@ Software-Defined Networking solution enhanced with machine learning for intellig
 </table>
 </div>
 
----
 
 ## Contact
 
@@ -104,7 +101,6 @@ Software-Defined Networking solution enhanced with machine learning for intellig
 
 </div>
 
----
 
 <div align="center">
 
