@@ -1,141 +1,83 @@
-<div align="center">
+# Pascal Arthur Montgomery Donfack
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🦊%20Tiger-Foxx%20🦊&fontSize=90&animation=fadeIn)
+**Computer Engineering Scientist** | **Software Engineer** | **Defensive Security Expert** | **Cloud Enthusiast**
 
-[![](https://komarev.com/ghpvc/?username=Tiger-Foxx&style=for-the-badge&color=orange)](https://github.com/Tiger-Foxx)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tiger-Foxx&style=flat-square&color=blue)](https://github.com/Tiger-Foxx)
+[![Website](https://img.shields.io/badge/Website-fox--site--ten.vercel.app-blue?style=flat-square&logo=vercel)](https://fox-site-ten.vercel.app/)
 
-<div style="display: flex; justify-content: center;">
-  <lottie-player src="https://lottie.host/5e37c340-c312-4367-bbb6-21505058c935/7juMz3Qj67.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
-</div>
+---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=F75800&center=true&vCenter=true&width=935&lines=Salut+👋+Je+suis+Pascal+Arthur+Montgomery+!;Développeur+Excentrique+%26+Passionné+de+Hacking+!;Créateur+de+Solutions+Innovantes+et+Sécurisées+💡;À+la+Recherche+de+Défis+Techniques+Excitants+🚀" alt="Pascal Arthur Montgomery Donfack" /></a>
+## À propos
 
-</div>
+Diplômé de l'École Polytechnique de Yaoundé, je suis un ingénieur logiciel passionné par la sécurité défensive et les technologies cloud. Mon expertise couvre le développement d'applications robustes, l'implémentation de solutions de sécurité innovantes et l'architecture cloud moderne.
 
-<!-- Snake Animation -->
-<div align="center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</div>
-
-## 🦊 Qui suis-je ?
-
-<table>
-<tr>
-<td>
-
-```python
-class RenardExcentrique:
-    def __init__(self):
-        self.identité = {
-            "nom": "Donfack Pascal Arthur",
-            "rôle": "Développeur Full Stack & Ethical Hacker",
-            "Parcours_academique": "École Polytechnique de Yaoundé",
-            "passion": ["Code Créatif", "Sécurité", "Innovation"]
-        }
-        self.stack_technique = {
-            "mobile": ["Flutter", "Dart"],
-            "backend": ["Django", "Flutter", "JEE", "Spring","Node"],
-            "frontend": ["HTML5", "CSS3", "JavaScript","React","Angular","Flutter"],
-            "sécurité": ["Kali Linux", "Penetration Testing","Code analysis"],
-            "devops": ["Docker", "Firebase", "GitHub Actions"]
-        }
-        self.projets_actuels = [
-            "Applications mobiles innovantes 📱",
-            "Solutions de sécurité créatives 🔐",
-            "Systèmes full-stack élégants ⚡"
-        ]
-        
-    def mission_quotidienne(self):
-        return "Repousser les limites du possible avec style ! 🚀"
+```typescript
+const engineer = {
+  name: "Pascal Arthur Montgomery Donfack",
+  title: "Computer Engineering Scientist",
+  location: "Yaoundé, Cameroun",
+  education: "École Polytechnique de Yaoundé",
+  
+  expertise: [
+    "Software Engineering",
+    "Defensive Security",
+    "Cloud Architecture",
+    "Application Development"
+  ],
+  
+  currentFocus: [
+    "Secure application development",
+    "Cloud security implementation",
+    "Defensive security strategies"
+  ]
+};
 ```
 
-</td>
-<td>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
-</td>
-</tr>
-</table>
+## Stack Technique
 
-## 📞 Comment me contacter ?
+### Développement
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<div align="center">
+### Sécurité & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-[![Gmail Badge](https://img.shields.io/badge/-donfackarthur750@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:donfackarthur750@gmail.com)](mailto:donfackarthur750@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-+237_658866639-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/237658866639)](https://wa.me/237658866639)
-[![GitHub Badge](https://img.shields.io/badge/-Tiger--Foxx-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Tiger-Foxx)](https://github.com/Tiger-Foxx)
+### Cloud & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-</div>
+## Projets Sélectionnés
 
-## 🎯 Arsenal Technologique
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Apercu de l'arsenal Technologique</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,spring,django,flutter,kali,python,c,vite,threejs,angular,csharp,dotnet,laravel&perline=14" />
-  </a>
-</p>
+### [Skin Cancer Prediction - BCC](https://github.com/Tiger-Foxx/skin-cancer-prediction-bcc)
+Application d'intelligence artificielle pour la détection précoce du cancer de la peau utilisant des techniques de machine learning avancées.
 
-## 📊 Mes Statistiques de Renard 
+### [SDN & Machine Learning](https://github.com/Tiger-Foxx/SDN-and-Machine-learning)
+Implémentation de solutions de réseau défini par logiciel intégrant des algorithmes d'apprentissage automatique pour l'optimisation et la sécurité réseau.
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Tiger-Foxx&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&icon_color=FFB300&text_color=c9d1d9&bg_color=0d1117" alt="Stats GitHub" /> 
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiger-Foxx&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FFB300&currStreakLabel=FF6B00&bg_color=0d1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiger-Foxx&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Tiger-Foxx&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
-</div>
-
-
-
-## 🦊 Projets Épiques en Cours
+## Statistiques GitHub
 
 <div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=skin-cancer-prediction-bcc&theme=great-gatsby)](https://github.com/Tiger-Foxx/skin-cancer-prediction-bcc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=SDN-and-Machine-learning&theme=great-gatsby)](https://github.com/Tiger-Foxx/SDN-and-Machine-learning)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiger-Foxx&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=4F8CC9&icon_color=4F8CC9&text_color=9f9f9f&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiger-Foxx&layout=compact&theme=dark&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515"/>
 </div>
 
+## Contact
 
+- **Email**: [donfackarthur750@gmail.com](mailto:donfackarthur750@gmail.com)
+- **WhatsApp**: [+237 658 866 639](https://wa.me/237658866639)
+- **GitHub**: [@Tiger-Foxx](https://github.com/Tiger-Foxx)
+- **Website**: [fox-site-ten.vercel.app](https://fox-site-ten.vercel.app/)
 
+---
 
-## 🎬 Contributions
-
-## 🎮 Mon graphe de Contributions ... un serpent le mange !
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-<div align="center">
-
-## 🦊 Citation du Renard
-
-> "Le code est poésie, la sécurité est un art, et je suis l'artiste qui peint avec les deux."
-> - *Le Renard Rusé* 🦊
-
-[![Codeium Badge](https://codeium.com/badges/main)](https://codeium.com)
-[![Cameroon Badge](https://user-badge.committers.top/cameroon/Tiger-Foxx.svg)](https://user-badge.committers.top/cameroon/Tiger-Foxx)
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=170&section=footer)
+*"La sécurité n'est pas une destination, c'est un voyage constant d'amélioration et d'adaptation."*
