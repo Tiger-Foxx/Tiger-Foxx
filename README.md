@@ -64,9 +64,6 @@ const engineer = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiger-Foxx&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=0d1117" alt="Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tiger-Foxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## Featured Projects
