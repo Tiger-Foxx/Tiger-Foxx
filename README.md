@@ -40,7 +40,7 @@ const engineer = {
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c,cs,react,angular,html,css,tailwind,materialui,threejs,vite,nodejs,django,spring,express,dotnet,laravel,flutter,postgres,mongodb,mysql,redis,firebase,linux,kali,docker,nginx,git,github,postman,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c,cs,react,angular,html,css,tailwind,materialui,threejs,vite,nodejs,django,spring,express,dotnet,laravel,flutter,postgres,mongodb,mysql,redis,firebase,linux,kali,docker,kubernetes,terraform,aws,azure,gcp,vault,nmap,wireshark,cloudflare,nginx,git,github,postman,figma&perline=12" />
 </div>
 
 ### And more...
