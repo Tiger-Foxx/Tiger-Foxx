@@ -1,4 +1,4 @@
-# Fox | Pascal Arthur Montgomery Donfack
+# Fox
 
 **Computer Engineering Scientist** • **Security Expert** • **Software Engineer** • **Cloud Enthusiast**
 
