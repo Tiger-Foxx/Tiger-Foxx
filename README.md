@@ -47,23 +47,6 @@ const engineer = {
 
 
 
-## GitHub Statistics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Tiger-Foxx&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=4F8CC9&icon_color=4F8CC9&text_color=9f9f9f&bg_color=0d1117" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiger-Foxx&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiger-Foxx&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=0d1117" alt="Top Languages"/>
-
-
 ## Featured Projects
 
 <div align="center">
