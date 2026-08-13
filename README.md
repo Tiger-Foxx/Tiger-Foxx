@@ -2,7 +2,7 @@
 
 **Computer Engineering Scientist** • **Security Expert** • **Software Engineer** • **DeepLearning Expert**
 
-I am a Computer Engineering Scientist who studied at **National Advanced School of Engineering of Yaounde**, expert in defensive security, software engineering and cloud enthusiast passionate about building secure and scalable solutions.
+I am a Computer Engineering Scientist who studied at **National Advanced School of Engineering of Yaounde**, expert in DeepLearning, defensive security, software engineering and cloud enthusiast passionate about building secure and scalable solutions.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tiger-Foxx&style=for-the-badge&color=blue)](https://github.com/Tiger-Foxx)
 [![Website](https://img.shields.io/badge/Portfolio-fox--site--ten.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://fox-site-ten.vercel.app/)
