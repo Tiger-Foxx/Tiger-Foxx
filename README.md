@@ -1,6 +1,6 @@
-# Fox
+# Hey, i build things that think
 
-**Computer Engineering Scientist** • **Security Expert** • **Software Engineer** • **Cloud Enthusiast**
+**Computer Engineering Scientist** • **Security Expert** • **Software Engineer** • **DeepLearning Expert**
 
 I am a Computer Engineering Scientist who studied at **National Advanced School of Engineering of Yaounde**, expert in defensive security, software engineering and cloud enthusiast passionate about building secure and scalable solutions.
 
@@ -21,7 +21,7 @@ const engineer = {
   expertise: [
     "Defensive Security",
     "Software Engineering", 
-    "Cloud Architecture",
+    "AI & DeepLearning Solutions",
     "Secure Application Development"
   ],
   
