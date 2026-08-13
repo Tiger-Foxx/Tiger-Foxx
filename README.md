@@ -1,4 +1,4 @@
-# Hey, i build things that think
+# Hey i build things that think
 
 **Computer Engineering Scientist** • **Security Expert** • **Software Engineer** • **DeepLearning Expert**
 
@@ -44,33 +44,6 @@ const engineer = {
 </div>
 
 ### And more...
-
-
-
-## Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-[![Skin Cancer Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=skin-cancer-prediction-bcc&theme=dark&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/Tiger-Foxx/skin-cancer-prediction-bcc)
-
-**AI-Powered Medical Diagnosis**  
-Advanced machine learning application for early skin cancer detection using computer vision and deep learning algorithms.
-
-</td>
-<td width="50%">
-
-[![SDN & ML](https://github-readme-stats.vercel.app/api/pin/?username=Tiger-Foxx&repo=SDN-and-Machine-learning&theme=dark&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=0d1117)](https://github.com/Tiger-Foxx/SDN-and-Machine-learning)
-
-**Network Security Innovation**  
-Software-Defined Networking solution enhanced with machine learning for intelligent network optimization and threat detection.
-
-</td>
-</tr>
-</table>
-</div>
 
 
 ## Contact
