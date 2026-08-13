@@ -2,10 +2,10 @@
 
 *Debugging the thoughts is the fun part.*
 
-**Fox** — Pascal Arthur Montgomery Donfack  
+**Fox**   
 Computer engineering scientist · security · software · deep learning
 
-I studied at the National Advanced School of Engineering of Yaoundé. I build systems that are meant to hold — products, models, and the security around both. I take the craft seriously. I take myself a little less so.
+I build systems that are meant to hold — products, models, and the security around both. I take the craft seriously. I take myself a little less so.
 
 Most weeks I sit somewhere between a debugger, a locksmith, and a patient teacher of neural nets.
 
